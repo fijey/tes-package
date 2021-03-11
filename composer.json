@@ -1,0 +1,16 @@
+{
+    "name": "fijey/kalkulator",
+    "description": "Mencoba membuat Package Kalkulator",
+    "authors": [
+        {
+            "name": "fijey",
+            "email": "fajarmukti9@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Fijey\\Kalkulator\\": "src/"
+        }
+    }
+}
